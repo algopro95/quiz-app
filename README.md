@@ -32,3 +32,6 @@
 ## Accessing the API
 - http://127.0.0.1:8000/api/quizzes
 - http://127.0.0.1:8000/api/users
+
+## Import xlsx
+- sample quiz.xlsx

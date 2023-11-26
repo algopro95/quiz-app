@@ -14,7 +14,7 @@
                     </a>
                     <a class="btn btn-info float-right"
                         href="{{ url('upload-csv') }}">
-                        Upload CSV
+                        Upload xlsx
                     </a>
                 </div>
             </div>
