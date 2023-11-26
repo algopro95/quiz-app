@@ -24,11 +24,11 @@
 - register
 - go to the database, access the users table, and change is_admin from 0 to 1
 
-## menjalankan quiz
+## Running the Quiz
 - register
 - select the Quiz menu
 - press mulai
 
-## mengakses API
+## Accessing the API
 - http://127.0.0.1:8000/api/quizzes
 - http://127.0.0.1:8000/api/users
