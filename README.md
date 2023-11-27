@@ -7,12 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Requirement
+- PHP 8.1.17
+
 ## Setup Quiz App
 
 - git clone https://github.com/algopro95/quiz-app.git
 - composer install
 - npm install
-- npm run dev dan biarkan tetap running
+- npm run dev and leave it running
 - copy .env.example to .env
 - change DB_DATABASE=laravel in .env file to your local database name
 - php artisan key:generate
